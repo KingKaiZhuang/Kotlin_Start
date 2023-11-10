@@ -49,14 +49,36 @@ fun main(){
 //    println(output1)
 //    println(output2)
 
-    val a = 10
-    val b = 20
+//    val a = 10
+//    val b = 20
+//
+//    if(a == 20){
+//        print("區塊1")
+//    }else{
+//        println("區塊2")
+//    }
 
-    if(a == 20){
-        print("區塊1")
-    }else{
-        println("區塊2")
+//    val score = 99
+//
+//    var level = ""
+//
+//    // 數字1..數字2-> = 字串
+//    when(score){
+//        in 90..100-> level = "甲等"
+//        in 80..89 -> level = "乙等"
+//        in 70 ..79 ->level = "丙等"
+//        else -> level = "不及格"
+//    }
+//    print(level)
+
+    // for loop 迴圈
+    var times = 0
+    // step控制
+    for(i in 100 downTo  1){
+        println(i)
     }
+
+
 
 }
 
