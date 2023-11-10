@@ -1,9 +1,5 @@
 package com.example.myapplication
 
-class GDSC {
-
-}
-
 fun main(){
 //    println("Hello world!")
 //    val text = "文字" // 不可變的變數
