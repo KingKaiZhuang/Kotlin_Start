@@ -72,11 +72,15 @@ fun main(){
 //    print(level)
 
     // for loop 迴圈
-    var times = 0
-    // step控制
-    for(i in 100 downTo  1){
-        println(i)
-    }
+//    var times = 0
+//    // step控制
+//    for(i in 100 downTo  1){
+//        println(i)
+//    }
+    var text = "Hello World"
+
+
+
 
 
 
